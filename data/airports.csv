@@ -1,0 +1,26 @@
+name,plan,price_cny,traffic,period,billing,line_claim,source_type,source_url,verified_date,tzdaohang_entry,notes
+维云云,100G档,5,100G,月付,包月,自称 IEPL 专线,官网核验,https://vyunyun.sbs,2026-11-06,https://tzdaohang.com/sites/639.html,官网现行价目逐档读取；旧 4 元/300G 与 20 元包年已下架
+维云云,260G档,12,260G,月付,包月,自称 IEPL 专线,官网核验,https://vyunyun.sbs,2026-11-06,https://tzdaohang.com/sites/639.html,
+维云云,600G档,25,600G,月付,包月,自称 IEPL 专线,官网核验,https://vyunyun.sbs,2026-11-06,https://tzdaohang.com/sites/639.html,
+维云云,1500G档,45,1500G,月付,包月,自称 IEPL 专线,官网核验,https://vyunyun.sbs,2026-11-06,https://tzdaohang.com/sites/639.html,
+宝云,200G档,4,200G,月付,包月,条目未标明,商家标价整理,https://tzdaohang.com/sites/1277.html,2026-11-06,https://tzdaohang.com/sites/1277.html,另有季付可选
+宝云,1000G档,13,1000G,月付,包月,条目未标明,商家标价整理,https://tzdaohang.com/sites/1277.html,2026-11-06,https://tzdaohang.com/sites/1277.html,代表档位
+宝云,一次性1000G,59,1000G,一次性,一次性,条目未标明,商家标价整理,https://tzdaohang.com/sites/1277.html,2026-11-06,https://tzdaohang.com/sites/1277.html,不限时类一次性套餐
+九云,150G档,6,150G,月付,包月,条目未标明,商家标价整理,https://tzdaohang.com/sites/1266.html,2026-11-06,https://tzdaohang.com/sites/1266.html,另有季付特惠
+九云,600G档,16,600G,月付,包月,条目未标明,商家标价整理,https://tzdaohang.com/sites/1266.html,2026-11-06,https://tzdaohang.com/sites/1266.html,代表档位
+九云,年付400G,99,400G,年付,包年,条目未标明,商家标价整理,https://tzdaohang.com/sites/1266.html,2026-11-06,https://tzdaohang.com/sites/1266.html,年付特惠价
+超悦Cloud,500G档,6.8,500G,月付,包月,Hysteria 1/2 协议,商家标价整理,https://tzdaohang.com/sites/684.html,2026-11-06,https://tzdaohang.com/sites/684.html,
+榴莲云,60G档,5.6,60G,年付折算月价,包年,自称 IEPL 专线,商家标价整理,https://tzdaohang.com/sites/1292.html,2026-11-06,https://tzdaohang.com/sites/1292.html,价格为年付折算每月均价
+FG,100G档,6,100G,月付,包月,AnyTLS 协议,商家标价整理,https://tzdaohang.com/sites/860.html,2026-11-06,https://tzdaohang.com/sites/860.html,起步价
+无忧链接,起步档,6,未标明,月付,包月,自称 IPLC 专线,商家标价整理,https://tzdaohang.com/sites/917.html,2026-11-06,https://tzdaohang.com/sites/917.html,流量以官网为准
+快狸,50G档,15,50G,月付,包月,自称 VLESS 专线,商家标价整理,https://tzdaohang.com/sites/906.html,2026-11-06,https://tzdaohang.com/sites/906.html,
+快狸,100G档,22,100G,月付,包月,自称 VLESS 专线,商家标价整理,https://tzdaohang.com/sites/906.html,2026-11-06,https://tzdaohang.com/sites/906.html,
+快狸,年付30G/月,120,30G/月,年付,包年,自称 VLESS 专线,商家标价整理,https://tzdaohang.com/sites/906.html,2026-11-06,https://tzdaohang.com/sites/906.html,
+环球梯,起步档,23,60G-600G 多档,月付起,包月/年付/按量,自称 VLESS 专线,商家标价整理,https://tzdaohang.com/sites/1295.html,2026-11-06,https://tzdaohang.com/sites/1295.html,支持 3-10 台设备
+杜卡迪,按量计费,1,2000G 起,按量,按量计费,公网中转（非专线）,官方标价待复核,https://dukadi.one,2026-11-06,https://tzdaohang.com/sites/589.html,官网 2026-11-06 连接超时不可达；价格为此前官方标价登记，待官网恢复后复核
+飞猫云,学生版,84,50G/月,年付,包年,测评资料未标明,测评资料口径,https://feimaoyunjc.com,2026-11-06,,多家 2026 测评资料交叉一致；本站条目发布中；以官网面板价目为准
+飞猫云,星耀版,25,150G,月付,包月,测评资料未标明,测评资料口径,https://feimaoyunjc.com,2026-11-06,,同上
+飞猫云,星环版,45,300G,月付,包月,测评资料未标明,测评资料口径,https://feimaoyunjc.com,2026-11-06,,同上
+飞猫云,银河版,85,600G,月付,包月,测评资料未标明,测评资料口径,https://feimaoyunjc.com,2026-11-06,,同上
+飞猫云,宇宙版,150,1TB,月付,包月,测评资料未标明,测评资料口径,https://feimaoyunjc.com,2026-11-06,,同上
+飞猫云,不限时版,680,1TB,一次性,不限时,测评资料未标明,测评资料口径,https://feimaoyunjc.com,2026-11-06,,同上
