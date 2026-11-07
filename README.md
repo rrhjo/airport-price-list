@@ -13,7 +13,7 @@
 完整分档数据见 [`data/airports.csv`](data/airports.csv)，一档一行。
 
 | 机场 | 起步价 | 来源类型 |
-|---|---|---|
+| --- | --- | --- |
 | 宝云 | ¥4 / 月（200G） | 商家标价整理 |
 | 维云云 | ¥5 / 月（100G） | **官网逐档核验** |
 | 榴莲云 | 年付折算 ¥5.6 / 月（60G） | 商家标价整理 |
@@ -50,6 +50,16 @@
 - 本数据集是价格信息整理，不是购买推荐；商家随时可能调价或停止运营，下单前请以官网实时价格为准。
 - 任何机场第一次购买都建议先月付试用，不要直接长周期预付。
 - 本仓库内所有链接均为裸链接，不含推广 / 返佣参数。
+
+## 相关教程
+
+以下教程来自小光科普（xiaoguangkepu.com），讲各平台的内容保存方法。这些平台在部分网络环境下需要稳定的网络工具才能访问，选购工具时可对照本数据集的价格（逐档核验日期见 CSV）：
+
+- [YouTube 视频保存教程](https://xiaoguangkepu.com/youguan/253.html)
+- [Pinterest 视频下载教程](https://xiaoguangkepu.com/others/484.html)
+- [TikTok 无水印保存教程](https://xiaoguangkepu.com/others/489.html)
+- [Facebook 视频保存教程](https://xiaoguangkepu.com/list_27/414.html)
+- [Telegram 使用教程](https://xiaoguangkepu.com/dianbao/223.html)
 
 ## 引用
 
