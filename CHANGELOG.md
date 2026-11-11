@@ -10,3 +10,11 @@
 ## 2026-11-07
 
 - 飞猫云本站条目已发布（https://tzdaohang.com/sites/1334.html），其 6 档价格的 tzdaohang_entry 链接补齐。
+
+## 2026-11-11
+
+- 维云云 4 档价格复核无变化，verified_date 更新为 2026-11-11（官网价目页实查）。
+- 官方地址变更（二家，均为原地址连续不可达后换址）：二猫云 siteba.maomaotoo.rest → caofu.erercatbiu.ink；闪电鼠 www2.shandiantt.xyz → www5.shandiantt.xyz（均实测可达，2026-11-10 确认）。此二家仍为只记存活、不记价格。
+- 杜卡迪：官网自 2026-11-06 起连续不可达（截至 2026-11-11 已 6 天），价格维持「待复核」；其本站条目已于 2026-11-10 下线，tzdaohang_entry 链接保留作历史记录。
+- 飞猫云：本站条目已于 2026-11-09 下线，6 档价格数据保留（测评资料口径），notes 已同步标注。
+- 同源变更记录页上线：梯子导航《机场价格与官网状态变更记录》 https://tzdaohang.com/2026/11/11/airport-change-log/
